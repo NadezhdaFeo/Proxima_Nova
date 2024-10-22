@@ -1,0 +1,69 @@
+@font-face {
+    font-family: "Proxima_Nova-Bold";
+    src: url(../Proxima_Nova/ProximaNova-Bold.ttf) format(truetype);
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Proxima_Nova_Cond-Bold";
+    src: url(../Proxima_Nova/ProximaNovaCond-Bold.ttf) format(truetype);
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Proxima_Nova_Cond-BoldIt";
+    src: url(../Proxima_Nova/ProximaNovaCond-BoldIt.ttf) format(truetype);
+    font-style: italic;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Proxima_Nova_ExCn-Bold";
+    src: url(../Proxima_Nova/ProximaNovaExCn-Bold.ttf) format(truetype);
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Proxima_Nova-Regular";
+    src: url(../Proxima_Nova/ProximaNova-Regular.ttf) format(truetype);
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Proxima_Nova-Semibold";
+    src: url(../Proxima_Nova/ProximaNova-Semibold.ttf) format(truetype);
+    font-style: normal;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "Proxima_Nova-SemiboldIt";
+    src: url(../Proxima_Nova/ProximaNova-SemiboldIt\ .ttf) format(truetype);
+    font-style: italic;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "Proxima_Nova-BoldIt";
+    src: url(../Proxima_Nova/ProximaNova-BoldIt.ttf) format(truetype);
+    font-style: italic;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Proxima_Nova_Cond-RegularIt";
+    src: url(../Proxima_Nova/ProximaNovaCond-RegularIt.ttf) format(truetype);
+    font-style: italic;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Proxima_Nova-Regular-otf";
+    src: url(../Proxima_Nova/ProximaNova-Regular.otf) format(opentype);
+    font-style: normal;
+    font-weight: 400;
+}
