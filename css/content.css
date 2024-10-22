@@ -5,6 +5,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin: 0 auto;
 }
 
 .first_screen {
@@ -761,7 +762,7 @@ body {
 }
 
 .block2_scr11 {
-    margin-top: 44px;
+    margin-top: -532px;
     margin-left: 444px;
 }
 
@@ -802,7 +803,7 @@ body {
 }
 
 .img_scr11 {
-    margin-top: -1006px;
+    margin-top: -568px;
 }
 
 .footer {
